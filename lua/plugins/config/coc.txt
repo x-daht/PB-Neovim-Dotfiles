@@ -1,0 +1,11 @@
+Esc + : => CocInstall coc-tsserver [ tssever | typescript | javascript ] 
+- [npm i -g typescript typescript-language-server]
+
+
+Esc + : => CocInstall coc-json 
+Esc + : => CocInstall coc-html
+Esc + : => CocInstall coc-css
+Esc + : => CocInstall coc-lua
+
+Esc + : => CocInstall coc-python
+Esc + : => CocInstall coc-markdownlint:
